@@ -1,4 +1,8 @@
 # Joystick-Controlled Tilt Maze
+![Arduino](https://img.shields.io/badge/Arduino-Uno-00979D)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Year](https://img.shields.io/badge/Built-2024-blue)
+![Maze Demo](demo.gif)
 ## Overview
 
 This project is a physical tilt-controlled maze game where a joystick is used to control two servo motors that tilt the maze along the X and Y axes. By adjusting the tilt, the player guides a ball through the maze to the goal.
@@ -107,4 +111,4 @@ Add sensors to detect maze completion
 
 ## Why This Project Matters
 
-This project was my entry point into hardware and IoT systems. It laid the foundation for later projects involving sensors, actuators, and interactive physical systems.
+This was my first step into hardware. Before this I only knew software — this project taught me that building things in the real world is a completely different challenge, and I got hooked.
